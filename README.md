@@ -1,0 +1,2 @@
+# disability_suite
+This project is designed to assist people with disabilities. It includes an eye scanner that can be used to control the cursor for movement and clicking. Additionally, a hand gesture detector based on American Sign Language is included to facilitate communication. Individuals who are unable to speak can use this project to communicate their thoughts, which will be translated into text and spoken aloud by the program.
